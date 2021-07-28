@@ -1,4 +1,4 @@
-package br.com.zupacademy.valteir.transacao.consometransacoes;
+package br.com.zupacademy.valteir.transacao.consumir_transacoes;
 
 public class EstabelecimentoDto {
     private String nome;

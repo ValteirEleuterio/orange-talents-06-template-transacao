@@ -1,4 +1,4 @@
-package br.com.zupacademy.valteir.transacao.consometransacoes;
+package br.com.zupacademy.valteir.transacao.consumir_transacoes;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;

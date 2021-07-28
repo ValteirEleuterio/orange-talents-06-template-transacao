@@ -1,6 +1,6 @@
 package br.com.zupacademy.valteir.transacao.config.kafka;
 
-import br.com.zupacademy.valteir.transacao.consometransacoes.TransacaoDto;
+import br.com.zupacademy.valteir.transacao.consumir_transacoes.TransacaoDto;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;
